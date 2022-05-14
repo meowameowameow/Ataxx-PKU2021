@@ -1,12 +1,12 @@
 # Ataxx-PKU2021
 minimax算法搜索5层，使用alpha-beta剪枝与预排序优化
 
-关于各版本：   
+**关于各版本：**   
 botzone初版 搜索4层，使用alpha-beta剪枝;    
 botzone改进版 搜索5层，加入预排序，即首先根据一步贪心结果排序，取前四十种走法，并剪掉导致结果相同的走法;    
 大作业功能版：控制台应用，用制表符，输出棋盘；实现存盘，读盘，新游戏，悔棋功能；   
 
-关于算法思路：   
+**关于算法思路：**   
 建议阅读http://home.ustc.edu.cn/~baj/publications/concluding2007-Bai.pdf
 
 优化建议：    
